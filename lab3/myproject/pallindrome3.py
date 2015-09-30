@@ -13,3 +13,5 @@ if list(my_str) == list(rev_str):
    print("True")
 else:
    print("False")
+
+    #commit
