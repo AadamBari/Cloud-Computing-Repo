@@ -14,4 +14,4 @@ if list(my_str) == list(rev_str):
 else:
    print("False")
 
-    #commit
+    #commit 2
